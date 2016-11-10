@@ -1,0 +1,6 @@
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\bin\Debug\ConsoleApplication.exe.config
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\bin\Debug\ConsoleApplication.exe
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\bin\Debug\ConsoleApplication.pdb
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\obj\x86\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\ThuanNV\Documents\Visual Studio 2015\Projects\demo3\obj\x86\Debug\ConsoleApplication.pdb
