@@ -1,0 +1,6 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\bin\Debug\Ex10.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\bin\Debug\Ex10.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\bin\Debug\Ex10.pdb
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\obj\Debug\Ex10.csprojResolveAssemblyReference.cache
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\obj\Debug\Ex10.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex10\Ex10\obj\Debug\Ex10.pdb

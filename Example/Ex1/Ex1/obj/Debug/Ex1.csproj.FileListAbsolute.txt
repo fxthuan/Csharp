@@ -1,0 +1,6 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\bin\Debug\Ex1.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\bin\Debug\Ex1.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\bin\Debug\Ex1.pdb
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\obj\Debug\Ex1.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex1\Ex1\obj\Debug\Ex1.pdb

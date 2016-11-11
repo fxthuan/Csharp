@@ -1,0 +1,5 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex9\Ex9\bin\Debug\Ex9.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex9\Ex9\bin\Debug\Ex9.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex9\Ex9\bin\Debug\Ex9.pdb
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex9\Ex9\obj\Debug\Ex9.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex9\Ex9\obj\Debug\Ex9.pdb

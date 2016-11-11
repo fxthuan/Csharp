@@ -1,0 +1,2 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex7\Ex7\bin\Debug\Ex7.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex7\Ex7\obj\Debug\Ex7.csprojResolveAssemblyReference.cache

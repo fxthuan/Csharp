@@ -1,0 +1,5 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex4\Ex4\bin\Debug\Ex4.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex4\Ex4\bin\Debug\Ex4.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex4\Ex4\bin\Debug\Ex4.pdb
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex4\Ex4\obj\Debug\Ex4.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex4\Ex4\obj\Debug\Ex4.pdb

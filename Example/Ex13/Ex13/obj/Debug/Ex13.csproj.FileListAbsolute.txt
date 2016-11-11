@@ -1,0 +1,5 @@
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex13\Ex13\bin\Debug\Ex13.exe.config
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex13\Ex13\bin\Debug\Ex13.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex13\Ex13\bin\Debug\Ex13.pdb
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex13\Ex13\obj\Debug\Ex13.exe
+c:\users\thuannv\documents\visual studio 2015\Projects\Ex13\Ex13\obj\Debug\Ex13.pdb
