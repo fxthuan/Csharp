@@ -1,0 +1,6 @@
+E:\VT2015-HOME\161114Csharp4V2\bin\Debug\161114Csharp4V2.exe.config
+E:\VT2015-HOME\161114Csharp4V2\bin\Debug\161114Csharp4V2.exe
+E:\VT2015-HOME\161114Csharp4V2\bin\Debug\161114Csharp4V2.pdb
+E:\VT2015-HOME\161114Csharp4V2\obj\Debug\161114Csharp4V2.csprojResolveAssemblyReference.cache
+E:\VT2015-HOME\161114Csharp4V2\obj\Debug\161114Csharp4V2.exe
+E:\VT2015-HOME\161114Csharp4V2\obj\Debug\161114Csharp4V2.pdb
